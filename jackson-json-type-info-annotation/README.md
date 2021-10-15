@@ -1,4 +1,4 @@
-  This is the main class. We are serializing/deserializing polymorphic types with these annotations.
+  We are serializing/deserializing polymorphic types with these annotations. (@JsonTypeInfo, @JsonSubTypes)
     
     Serializing:
     ------------
